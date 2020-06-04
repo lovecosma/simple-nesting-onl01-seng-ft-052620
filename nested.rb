@@ -102,7 +102,7 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-		 programmer_hash[:yukihiro_matsumoto][:languages] = ["Assembly"]
+		 programmer_hash[:dennis_ritchie][:languages]=> ["Assembly"]
 		 programmer_hash
 end
 def changing_alan
