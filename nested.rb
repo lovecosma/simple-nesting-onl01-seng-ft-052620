@@ -102,7 +102,8 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-
+		 programmer_hash[:yukihiro_matsumoto][:languages] = ["Assembly"]
+		 programmer_hash
 end
 def changing_alan
 	programmer_hash =
