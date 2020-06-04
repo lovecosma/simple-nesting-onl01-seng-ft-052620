@@ -80,8 +80,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-programmer_hash[:yukihiro_matsumoto][:known_for] = "Unix"
-programmer_hash[:yukihiro_matsumoto][:languages] = "LISP"
+programmer_hash[:yukihiro_matsumoto][:known_for]
 programmer_hash
 
 end
