@@ -103,4 +103,5 @@ def adding_to_dennis
         }
      }
 programmer_hash[:alan_kay][:known_for] = "Black Lives Matter"
+programmer_hash
 end
